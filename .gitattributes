@@ -1,0 +1,10 @@
+* text=auto eol=lf
+*.md text eol=lf
+*.csv text eol=lf
+*.sha256 text eol=lf
+*.zip binary
+*.pdf binary
+*.docx binary
+*.png binary
+*.jpg binary
+*.jpeg binary
